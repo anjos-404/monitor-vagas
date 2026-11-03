@@ -1,0 +1,20 @@
+{
+  "data": [
+    {"id": 101, "name": "Desenvolvedor .NET Júnior", "careerPageName": "Empresa A", "type": "vacancy_type_effective",
+     "publishedDate": "2026-10-30T21:08:39.144Z", "workplaceType": "remote", "city": "", "state": "",
+     "jobUrl": "https://empresaa.gupy.io/job/101"},
+    {"id": 102, "name": "Desenvolvedor Back-end Pleno", "careerPageName": "Empresa B", "type": "vacancy_type_effective",
+     "publishedDate": "2026-10-29T10:00:00.000Z", "workplaceType": "remote", "city": "", "state": "",
+     "jobUrl": "https://empresab.gupy.io/job/102"},
+    {"id": 103, "name": "Programador Jr", "careerPageName": "Empresa C", "type": "vacancy_type_effective",
+     "publishedDate": "2026-10-28T10:00:00.000Z", "workplaceType": "on-site", "city": "Curitiba", "state": "Paraná",
+     "jobUrl": "https://empresac.gupy.io/job/103"},
+    {"id": 104, "name": "Desenvolvedor Júnior", "careerPageName": "Empresa D", "type": "vacancy_type_effective",
+     "publishedDate": "2026-10-27T10:00:00.000Z", "workplaceType": "on-site", "city": "Recife", "state": "Pernambuco",
+     "jobUrl": "https://empresad.gupy.io/job/104"},
+    {"id": 105, "name": "Analista de Aplicações Júnior", "careerPageName": "Empresa E", "type": "vacancy_type_effective",
+     "publishedDate": "2026-10-26T10:00:00.000Z", "workplaceType": "hybrid", "city": "São José dos Pinhais", "state": "Paraná",
+     "jobUrl": "https://empresae.gupy.io/job/105"}
+  ],
+  "pagination": {"total": 5, "limit": 50, "offset": 0}
+}

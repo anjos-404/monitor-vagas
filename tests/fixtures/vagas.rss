@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Vagas de tecnologia</title>
+    <item>
+      <title>Desenvolvedor C# Júnior (Remoto)</title>
+      <link>https://exemplo.com/vagas/1</link>
+      <guid>vaga-1</guid>
+      <author>Empresa RSS</author>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tech Lead .NET</title>
+      <link>https://exemplo.com/vagas/2</link>
+      <guid>vaga-2</guid>
+    </item>
+  </channel>
+</rss>
