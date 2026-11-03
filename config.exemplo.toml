@@ -1,0 +1,20 @@
+# Copie para config.toml e ajuste.
+
+[gupy]
+# Cada termo vira uma busca no portal de vagas da Gupy.
+termos = ["desenvolvedor junior", "desenvolvedor .net", "programador", "analista de sistemas junior"]
+
+[filtro]
+# O título precisa ter pelo menos uma destas palavras (sem diferenciar acento/maiúscula).
+incluir = ["junior", "jr", "trainee", "desenvolvedor", "programador", ".net", "c#"]
+# Se o título tiver alguma destas, a vaga é descartada.
+excluir = ["pleno", "senior", "sr", "especialista", "lead", "coordenador"]
+# Vazio = qualquer modalidade. Opções: "remoto", "híbrido", "presencial".
+modalidades = []
+# Vagas não remotas só passam se forem nestas cidades.
+cidades = ["Curitiba", "São José dos Pinhais", "Fazenda Rio Grande", "Pinhais", "Araucária"]
+
+# Feeds RSS opcionais (um bloco por feed):
+# [[rss]]
+# nome = "Meu agregador"
+# url = "https://exemplo.com/vagas.rss"
